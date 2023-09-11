@@ -3,7 +3,8 @@ import java.util.Scanner;
 import java.text.DecimalFormat;
 
 
-public class Main{
+public class CurrencyConverter
+{
     public static void main(String[]args){
         System.out.println("Currency Converter Project.");
         double ruppee,dollar,euro,pound;
